@@ -1,0 +1,1 @@
+Es un script que captura rutas nacionales que está hecho en python, que muestra la distancia y la duración del trayecto.
